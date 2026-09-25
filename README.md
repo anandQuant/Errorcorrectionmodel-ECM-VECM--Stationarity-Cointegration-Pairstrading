@@ -1,4 +1,4 @@
-# Stationarity-Cointegration-PairsTrading
+# Stationarity-Cointegration-PairsTrading ECM
 
 A simple Python tool that automatically checks time series data (like stock prices) and selects the right statistical model to analyze them.
 
